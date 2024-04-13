@@ -25,7 +25,7 @@
  - ```git clone this repo```
 
 ##### Enter the directory
- - ```cd PyPhisher```
+ - ```cd PlxPhisher```
 
 ##### Install all modules
  - ```pip3 install -r files/requirements.txt --break-system-packages```
