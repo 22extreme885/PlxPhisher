@@ -31,7 +31,7 @@
  - ```pip3 install -r files/requirements.txt --break-system-packages```
 
 ##### Run the tool
- - ```python3 pyphisher.py```
+ - ```python3 plxphisher.py```
 
 ### Pip
  - `pip3 install pyphisher` [For Termux]
